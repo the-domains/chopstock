@@ -1,0 +1,14 @@
+layout_spectrum: 0.9229391
+typography_spectrum: 0
+color:
+  saturation: 0
+  lightness: 0.6111111
+  brandStrength: 0
+  rhythmicContrast: 0.344086
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Chopstock
