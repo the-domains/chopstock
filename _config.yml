@@ -12,4 +12,8 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.9229391
 name: Chopstock
+navigation:
+  - name: Test nav 1
+    id: f83ee733-47a6-45d1-b71d-8b3dd6813816
+    type: content
 title: Chopstock
